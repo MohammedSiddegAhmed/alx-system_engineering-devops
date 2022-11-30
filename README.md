@@ -1,1 +1,1 @@
-shell basic
+Display the contents list of your current directory
